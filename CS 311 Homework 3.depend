@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1585190954 source:c:\users\limp_\onedrive\desktop\cs 311 homework 3\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<map>
+	<vector>
+	<sstream>
+
+1585184891 c:\users\limp_\onedrive\desktop\cs 311 homework 3\include\symbol.h
+	<map>
+	<string>
+	<iostream>
+	<sstream>
+	<vector>
+
+1585183725 source:c:\users\limp_\onedrive\desktop\cs 311 homework 3\src\symbol.cpp
+	"symbol.h"
+	<map>
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+
